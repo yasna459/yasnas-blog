@@ -3,7 +3,7 @@ description: "Class of 2028"
 owner_name: Yasna Ahmadi
 github_username: yasna459
 github_repo: "yasnas-blog" 
-baseurl: "yasnas-blog"
+baseurl: "/yasnas-blog"
 future: true
 remote_theme: jekyll/minima
 minima:
